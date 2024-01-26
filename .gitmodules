@@ -1,0 +1,6 @@
+[submodule "CurveLibrary"]
+	path = CurveLibrary
+	url = ../CurveLibrary.git
+[submodule "CurveClient"]
+	path = CurveClient
+	url = ../CurveClient.git
